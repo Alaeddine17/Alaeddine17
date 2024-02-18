@@ -1,6 +1,6 @@
 ### Hi, I'm Alae Eddine 👋
 
-🔥 Software Developer grinding hard to make something cool
+🔥 Software Developer grinding hard to make something cool<br>
 ✨ Favorite Tech: PHP,JavaScript, React, C# ...<br>
 📧 elharrakalae.ea@gmail.com<br>
 🎨 Portfolio: https://Alaeddine17.github.io<br>
