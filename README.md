@@ -5,5 +5,5 @@
 📧 elharrakalae.ea@gmail.com<br>
 🎨 Portfolio: https://Alaeddine17.github.io<br>
 🔭 I’m currently working on desktop application<br>
-🌱 I’m currently learning C#.<br>
+🌱 I’m currently learning C#, Laravel.<br>
 🌱 & Look forward to learning blockchain in the future.
